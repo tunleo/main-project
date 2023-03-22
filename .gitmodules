@@ -1,0 +1,3 @@
+[submodule "mall-project"]
+	path = mall-project
+	url = https://github.com/tunleo/mall-project
